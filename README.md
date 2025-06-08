@@ -16,10 +16,10 @@ This is a simple and responsive registration form built using **HTML**, **CSS**,
 
 ## 🚀 Link
 
-  link
+  https://ruthra2198.github.io/registration-form/
 
 ## 📝 Form Fields
 
-* **Full Name** (Required)
-* **Email Address** (Valid email format required)
+* **Name** (Required)
+* **Email ID** (Valid email format required)
 * **Password** (Minimum 6 characters)
